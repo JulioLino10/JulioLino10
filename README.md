@@ -1,6 +1,6 @@
 <!-- Banner de Boas-Vindas -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Salve%2C+eu+sou+o+Julio+Lino!;Desenvolvedor+de+Banco+de+Dados;Amante+do+Python+e+da+Data+Science!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=435&lines=Salve%2C+eu+sou+o+Julio+Lino!" alt="Typing SVG" />
 </p>
 
 ---
