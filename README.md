@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lino!
 
-<!--
-**JulioLino10/JulioLino10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Desenvolvedor com foco em Banco de Dados, apaixonado por Python, automações e transformar dados em decisões inteligentes.
 
-Here are some ideas to get you started:
+🚀 Explorando o mundo da Data Science e construindo soluções com:
+- Python 🐍
+- Pandas, NumPy, Matplotlib 📊
+- SQL, PostgreSQL, MySQL 🛢️
+- Web scraping e automações 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Atualmente aprendendo:
+- Machine Learning 🤖
+- FastAPI & Flask para APIs 🔗
+- Dashboards interativos com Streamlit
+
+📫 Vamos trocar ideia?  
+[LinkedIn](https://www.linkedin.com/in/teulink) | [Portfólio](https://juliolino10.github.io/link_instagram/) | [Instagram](https://instagram.com/xmarih.assis)
+
+---
+
+✨ *“Transformar café em código e ideias em soluções.”*
